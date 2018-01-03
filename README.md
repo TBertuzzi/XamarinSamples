@@ -11,9 +11,15 @@ Fique a vontade para contribuir ou divulgar seus próprios códigos.
 |Nome|Descrição|Docs & Source|Criador|
 | ------------------- | --------------------------------- | :-----------: | -------------------- |
 |Kbits.TodoApp|Aplicativo Simples que Demonstra a utilização de uma Aplicação com Xamarin Forms.|[GitHub](https://github.com/TBertuzzi/Kbits.TodoApp)|[@TBertuzzi](https://github.com/TBertuzzi)|
-|MVVM.Core|Projeto para simplificar a utilização do MVVM sem templates.|[GitHub](https://github.com/TBertuzzi/MVVM.Core)|[@TBertuzzi](https://github.com/TBertuzzi)|
-|MVVM helper|Projeto para simplificar a utilização do MVVM sem templates.|[GitHub](https://github.com/jamesmontemagno/mvvm-helpers)|[@JamesMontemagno](https://github.com/jamesmontemagno)|
-|XamarinEffects|Exemplo de Utilização de Effects.|[GitHub](https://github.com/Sylix/XamarinEffects)|[@Sylix](https://github.com/Sylix/XamarinEffects)|
+|XamarinEffects|Exemplo de Utilização de Effects.|[GitHub](https://github.com/Sylix/XamarinEffects)|[@ValerioFerreira](https://github.com/Sylix/XamarinEffects)|
+
+## Templates
+
+|Nome|Descrição|Docs & Source|Criador|
+| ------------------- | --------------------------------- | :-----------: | -------------------- |
+|MVVM.Core|Projeto para simplificar a utilização do MVVM.|[GitHub](https://github.com/TBertuzzi/MVVM.Core)|[@TBertuzzi](https://github.com/TBertuzzi)|
+|MVVM helper|Projeto para simplificar a utilização do MVVM.|[GitHub](https://github.com/jamesmontemagno/mvvm-helpers)|[@JamesMontemagno](https://github.com/jamesmontemagno)|
+|Prism|Template para utilizar o Prism com Xamarin Forms. Documentação traduzida.|[GitHub](https://github.com/angelobelchior/prism-xamarin-forms/wiki)|[@AngeloBelchior](https://github.com/angelobelchior)|
 
 ## Plugins
 
