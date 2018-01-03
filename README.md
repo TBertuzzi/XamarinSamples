@@ -29,3 +29,6 @@ Fique a vontade para contribuir ou divulgar seus próprios códigos.
 |LocalNotificationsPlugin|Plugin para exibir notificações locais.|[GitHub](https://github.com/edsnider/LocalNotificationsPlugin)|[@EdSnider](http://www.twitter.com/EdSnider),[@JamesMontemagno](https://github.com/jamesmontemagno/)|
 |SettingsPlugin|Plugin para armazenar Dados Locais no APP.|[GitHub](https://github.com/jamesmontemagno/SettingsPlugin)|[@JamesMontemagno](https://github.com/jamesmontemagno)|
 
+## Outros
+
+Diversos Plugins e Conteudo de Xamarin : https://github.com/xamarin/XamarinComponents
