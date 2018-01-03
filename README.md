@@ -11,7 +11,7 @@ Fique a vontade para contribuir ou divulgar seus próprios códigos.
 |Nome|Descrição|Docs & Source|Criador|
 | ------------------- | --------------------------------- | :-----------: | -------------------- |
 |Kbits.TodoApp|Aplicativo Simples que Demonstra a utilização de uma Aplicação com Xamarin Forms.|[GitHub](https://github.com/TBertuzzi/Kbits.TodoApp)|[@TBertuzzi](https://github.com/TBertuzzi)|
-|XamarinEffects|Exemplo de Utilização de Effects.|[GitHub](https://github.com/Sylix/XamarinEffects)|[@ValerioFerreira](https://github.com/Sylix/XamarinEffects)|
+|XamarinEffects|Exemplo de Utilização de Effects.|[GitHub](https://github.com/Sylix/XamarinEffects)|[@ValerioFerreira](https://github.com/Sylix)|
 
 ## Templates
 
