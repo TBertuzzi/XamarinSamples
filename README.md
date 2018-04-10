@@ -17,7 +17,6 @@ Fique a vontade para contribuir ou divulgar seus próprios códigos.
 
 |Nome|Descrição|Docs & Source|Criador|
 | ------------------- | --------------------------------- | :-----------: | -------------------- |
-|MVVM.Core|Projeto para simplificar a utilização do MVVM.|[GitHub](https://github.com/TBertuzzi/MVVM.Core)|[@TBertuzzi](https://github.com/TBertuzzi)|
 |MVVM helper|Projeto para simplificar a utilização do MVVM.|[GitHub](https://github.com/jamesmontemagno/mvvm-helpers)|[@JamesMontemagno](https://github.com/jamesmontemagno)|
 |Prism|Template para utilizar o Prism com Xamarin Forms. Documentação traduzida.|[GitHub](https://github.com/angelobelchior/prism-xamarin-forms/wiki)|[@AngeloBelchior](https://github.com/angelobelchior)|
 
